@@ -1,0 +1,156 @@
+{
+  "id": "f8be98d36b6289d89cb930ad093f9e65",
+  "schema": [
+    "substance-article",
+    "0.3.0"
+  ],
+  "nodes": {
+    "document": {
+      "id": "document",
+      "type": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "f8be98d36b6289d89cb930ad093f9e65",
+      "creator": "",
+      "title": "Untitled",
+      "authors": [
+        "contributor_1"
+      ],
+      "abstract": "",
+      "created_at": "2014-03-23T08:46:47.736Z",
+      "updated_at": "2014-03-23T08:49:31.158Z",
+      "published_on": "2014-03-23T08:49:31.157Z"
+    },
+    "cover": {
+      "id": "cover",
+      "type": "cover",
+      "authors": []
+    },
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "cover",
+        "heading_0806c1e30ce957e242a90ec190b1dab0",
+        "a731dad4a28ccf1df361fcfbba394757",
+        "8a6a03ccd13fa66cb84d461bc7ac9dd0",
+        "6fb285de8a53e737c9841758f76c082c",
+        "d57fd602299861790283eeb29cc993c1",
+        "e6daa68c35a7656eaf325ac3be029573",
+        "72b8db7425e1e76f57c66fe2b08271aa",
+        "0590dfb36fe1ae3b4c44152eb0c7cb04",
+        "0a9a374140464f9eb63d04cb40697b15",
+        "65733b474e982538d23b426c5336f5a2",
+        "ea204e31646e047b5d766df2625a868c",
+        "c3950c986964e0502d5b7e5a7111ee28"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": []
+    },
+    "remarks": {
+      "type": "view",
+      "id": "remarks",
+      "nodes": []
+    },
+    "errors": {
+      "type": "view",
+      "id": "errors",
+      "nodes": []
+    },
+    "info": {
+      "type": "view",
+      "id": "info",
+      "nodes": [
+        "contributor_1"
+      ]
+    },
+    "contributor_1": {
+      "type": "contributor",
+      "id": "contributor_1",
+      "name": "John Doe",
+      "role": "author",
+      "organization": "ACME",
+      "image": "",
+      "email": "me@example.com"
+    },
+    "0a9a374140464f9eb63d04cb40697b15": {
+      "type": "text",
+      "id": "0a9a374140464f9eb63d04cb40697b15",
+      "source_id": "",
+      "content": ""
+    },
+    "65733b474e982538d23b426c5336f5a2": {
+      "type": "text",
+      "id": "65733b474e982538d23b426c5336f5a2",
+      "source_id": "",
+      "content": ""
+    },
+    "ea204e31646e047b5d766df2625a868c": {
+      "type": "text",
+      "id": "ea204e31646e047b5d766df2625a868c",
+      "source_id": "",
+      "content": ""
+    },
+    "c3950c986964e0502d5b7e5a7111ee28": {
+      "type": "text",
+      "id": "c3950c986964e0502d5b7e5a7111ee28",
+      "source_id": "",
+      "content": ""
+    },
+    "heading_0806c1e30ce957e242a90ec190b1dab0": {
+      "type": "heading",
+      "id": "heading_0806c1e30ce957e242a90ec190b1dab0",
+      "source_id": "",
+      "content": "bdggghd",
+      "level": 1
+    },
+    "a731dad4a28ccf1df361fcfbba394757": {
+      "type": "text",
+      "id": "a731dad4a28ccf1df361fcfbba394757",
+      "source_id": "",
+      "content": "ddd"
+    },
+    "8a6a03ccd13fa66cb84d461bc7ac9dd0": {
+      "type": "text",
+      "id": "8a6a03ccd13fa66cb84d461bc7ac9dd0",
+      "source_id": "",
+      "content": "dhdfg"
+    },
+    "0590dfb36fe1ae3b4c44152eb0c7cb04": {
+      "type": "text",
+      "id": "0590dfb36fe1ae3b4c44152eb0c7cb04",
+      "source_id": "",
+      "content": ""
+    },
+    "6fb285de8a53e737c9841758f76c082c": {
+      "type": "text",
+      "id": "6fb285de8a53e737c9841758f76c082c",
+      "source_id": "",
+      "content": "dhdghdg"
+    },
+    "d57fd602299861790283eeb29cc993c1": {
+      "type": "text",
+      "id": "d57fd602299861790283eeb29cc993c1",
+      "source_id": "",
+      "content": "ghdgfhdgh"
+    },
+    "e6daa68c35a7656eaf325ac3be029573": {
+      "type": "text",
+      "id": "e6daa68c35a7656eaf325ac3be029573",
+      "source_id": "",
+      "content": "dghghdghdghdghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+    },
+    "72b8db7425e1e76f57c66fe2b08271aa": {
+      "type": "text",
+      "id": "72b8db7425e1e76f57c66fe2b08271aa",
+      "source_id": "",
+      "content": ""
+    }
+  }
+}
